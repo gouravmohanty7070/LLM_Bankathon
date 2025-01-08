@@ -34,7 +34,7 @@ For a hassle-free installation, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/{your_username}/LLM_Bankathon.git
+git clone https://github.com/gouravmohanty7070/LLM_Bankathon.git
 ```
 
 
@@ -43,7 +43,7 @@ git clone https://github.com/{your_username}/LLM_Bankathon.git
 To ensure a clean and isolated environment for your application, it's recommended to use a virtual environment. Here's how you can set it up:
 
 ```
-cd {your-repo}
+cd LLM_Bankathon
 python -m virtualenv venv
 ```
 Activating the Virtual Environment
